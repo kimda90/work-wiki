@@ -61,10 +61,6 @@ Agents update wiki/ and generated/.
 
 The main idea is to create a **portable personal work-memory system** that helps you onboard, remember context, prepare for meetings, document technical discoveries, and later prototype agentic documentation workflows for real projects.
 
-# Skills
-Check this post: https://discourse.boat.media/t/obisdian-llm-wiki-for-fun-and-profit/399/2?u=daniel.kim
-
-
 # Configure Obsidian
 Configure Obsidian as the **human capture/browser layer**. Let Codex/agents handle digestion outside Obsidian.
 
